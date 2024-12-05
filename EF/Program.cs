@@ -17,9 +17,9 @@ namespace EF
             //wallet.Print(new List<Wallet>() { wallet.GetAtID(3) });
 
 
+            AppDbContext_InConfig_MainClass.ASMain();
 
-
-            WorkingWithMultipleTasks.ASMain();
+            //WorkingWithMultipleTasks.ASMain();
 
             Console.WriteLine("Hello, World!");
         }
